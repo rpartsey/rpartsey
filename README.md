@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpartsey&show_icons=true&include_all_commits=true" alt="rpartsey" /></p>
 
 <!--
 **rpartsey/rpartsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
